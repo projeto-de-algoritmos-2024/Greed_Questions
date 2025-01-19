@@ -11,3 +11,4 @@ class Solution:
             if deadline < time:
                 result -= 1
                 return result
+        return result
