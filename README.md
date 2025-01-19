@@ -1,45 +1,34 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Greed Questions
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 19<br>
+**Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+
+| Matrícula | Aluno                 |
+| --------- | --------------------- |
+| 211061805 | Guilherme Westphall   |
+| 221022088 | Lucas Martins Gabriel |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto consiste em resolver questões de programação utilizando a técnica de Greed de plataformas como o LeetCode e o GeekForGeeks. O objetivo é praticar os conceitos aprendidos durante o módulo de Greed.
+
+# Questões
+
+| Questão          | Título                                                                                                                                               | Dificuldade |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 630               | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)                                                                          | Hard        |
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Course Schedule III
+
+![630](./assets/630.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+Para testar as soluções basta submeter o código nas respectivas plataformas de exercícios.
 
 
 
