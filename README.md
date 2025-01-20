@@ -20,9 +20,15 @@ O projeto consiste em resolver questões de programação utilizando a técnica 
 | 630               | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)                                                                          | Hard        |
 
 ## Screenshots
+
 ### Course Schedule III
 
 ![630](./assets/630.png)
+
+### Huffman Decoding
+
+![Huffman](./assets/huffman.png)
+
 
 ## Instalação 
 **Linguagem**: Python<br>
