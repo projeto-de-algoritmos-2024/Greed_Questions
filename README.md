@@ -18,11 +18,16 @@ O projeto consiste em resolver questões de programação utilizando a técnica 
 | Questão          | Título                                                                                                                                               | Dificuldade |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | 630               | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)                                                                          | Hard        |
+| 2406  | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | Medium        |
 
 ## Screenshots
 ### Course Schedule III
 
 ![630](./assets/630.png)
+
+### Divide Intervals Into Minimum Number of Groups
+
+![2406](./assets/2406.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
