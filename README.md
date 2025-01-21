@@ -42,5 +42,5 @@ O projeto consiste em resolver questões de programação utilizando a técnica 
 Para testar as soluções basta submeter o código nas respectivas plataformas de exercícios.
 
 ## Vídeo
-(Vídeo YT)[https://www.youtube.com/watch?v=-YYEjm7vo1Y]
+[Vídeo YT](https://www.youtube.com/watch?v=-YYEjm7vo1Y)
 
